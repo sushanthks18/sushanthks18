@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   
-  <a href="https://drive.google.com/drive/u/0/my-drive">
+  <a href="https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1poW1yo7I0m8pjQoSa4gqF2NCroIiMV9E/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-2ECC71?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   
