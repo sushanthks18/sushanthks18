@@ -6,9 +6,9 @@
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-  <li>🎓 ECE student at Siddaganga Institute of Technology</li>
-  <li>💻 Interested in Web Development & Backend</li>
-  <li>🚀 Building real-world software projects</li>
+I am Sushanth K S from Siddaganga Institute of Technology, Tumkur, Karnataka currently in the 6th semester pursuing Electronics and Communication Engineering. I have developed a strong proficiency in MERN stack and have successfully built and deployed several projects using these technologies. My passion lies in leveraging technology to craft innovative solutions for real-world challenges. Additionally, I have a solid understanding of Computer Science Fundamentals.
+
+
 </ul>
 
 
