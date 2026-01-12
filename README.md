@@ -1,15 +1,30 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sushanth K S&center=true&size=28">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sushanth+K+S&center=true&size=28">
 </p>
----
+
 
 <h2>👨‍💻 About Me</h2>
 - 🎓 ECE student at Siddaganga Institute of Technology
 - 💻 Interested in Web Development & Backend
 - 🚀 Building real-world software projects
-- 📈 Preparing for placements
+
 
 ---
+## 📂 Projects
+
+<p>
+ <a href="https://sushanthksportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/yourusername/krishisakha-an-iot-based-farm-assistan">
+    <img src="https://img.shields.io/badge/KRISHI%20SAKHA-8B0000?style=for-the-badge&logo=leaflet&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/yourusername/AquaAdvisor-AI-Powered-Water-Use-Efficiency-Advisor-for-Agriculture">
+    <img src="https://img.shields.io/badge/AQUA%20ADVISOR-1E90FF?style=for-the-badge&logo=water&logoColor=white"/>
+  </a>
+</p>
 
 ### 🛠️ Tech Stack
 **Frontend:**  
