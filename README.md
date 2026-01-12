@@ -6,8 +6,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-I am Sushanth K S from Siddaganga Institute of Technology, Tumkur, Karnataka currently in the 6th semester pursuing Electronics and Communication Engineering. I have developed a strong proficiency in MERN stack and have successfully built and deployed several projects using these technologies. My passion lies in leveraging technology to craft innovative solutions for real-world challenges. Additionally, I have a solid understanding of Computer Science Fundamentals.
-
+I am Sushanth K S from Siddaganga Institute of Technology, Tumkur, Karnataka, currently in the 6th semester pursuing Electronics and Communication Engineering. I have hands-on experience with the MERN stack and have built and deployed multiple web applications using these technologies. I am interested in developing software solutions that address real-world problems and continuously improving my technical skills. I also have a good understanding of core computer science fundamentals.
 
 </ul>
 
