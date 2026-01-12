@@ -4,9 +4,12 @@
 
 
 <h2>👨‍💻 About Me</h2>
-- 🎓 ECE student at Siddaganga Institute of Technology
-- 💻 Interested in Web Development & Backend
-- 🚀 Building real-world software projects
+
+<ul>
+  <li>🎓 ECE student at Siddaganga Institute of Technology</li>
+  <li>💻 Interested in Web Development & Backend</li>
+  <li>🚀 Building real-world software projects</li>
+</ul>
 
 
 ---
@@ -26,6 +29,33 @@
   </a>
 </p>
 
+## 🌐 Socials:
+
+<p>
+  <a href="mailto:sushanthks804@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sushanth-ks-02b406292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/_sushanth_ks_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/sushanthks/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  
+  <a href="https://drive.google.com/drive/u/0/my-drive">
+    <img src="https://img.shields.io/badge/Resume-2ECC71?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+  
+  <a href="https://sushanthksportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/My%20Portfolio-6C2BD9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 ### 🛠️ Tech Stack
 **Frontend:**  
 HTML, CSS, JavaScript, React
