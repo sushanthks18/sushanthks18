@@ -28,11 +28,11 @@ I am Sushanth K S from Siddaganga Institute of Technology, Tumkur, Karnataka, cu
   </a>
 
  <a href="https://github.com/sushanthks18/Campus-Queue-Waiting-Time-Problem-Analyzer.git">
-  <img src="https://img.shields.io/badge/CAMPUS%20QUEUE%20ANALYZER-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CAMPUS%20QUEUE%20ANALYZER-1E90FF?style=for-the-badge&logo=collage&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sushanthks18/TaxSaver.git">
-  <img src="https://img.shields.io/badge/TAX%20SAVER-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TAX%20SAVER-1E90FF?style=for-the-badge&logo=money&logoColor=white"/>
 </a>
 </p>
 
