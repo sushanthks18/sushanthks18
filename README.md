@@ -19,7 +19,7 @@ I am Sushanth K S from Siddaganga Institute of Technology, Tumkur, Karnataka, cu
     <img src="https://img.shields.io/badge/PORTFOLIO-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/yourusername/krishisakha-an-iot-based-farm-assistan">
+  <a href="https://github.com/sushanthks18/krishisakha-an-iot-based-farm-assistan.git">
     <img src="https://img.shields.io/badge/KRISHI%20SAKHA-8B0000?style=for-the-badge&logo=leaflet&logoColor=white"/>
   </a>
   
