@@ -23,7 +23,7 @@ I am Sushanth K S from Siddaganga Institute of Technology, Tumkur, Karnataka, cu
     <img src="https://img.shields.io/badge/KRISHI%20SAKHA-8B0000?style=for-the-badge&logo=leaflet&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/yourusername/AquaAdvisor-AI-Powered-Water-Use-Efficiency-Advisor-for-Agriculture">
+  <a href="https://github.com/sushanthks18/AquaAdvisor-AI-Powered-Water-Use-Efficiency-Advisor-for-Agriculture.git">
     <img src="https://img.shields.io/badge/AQUA%20ADVISOR-1E90FF?style=for-the-badge&logo=water&logoColor=white"/>
   </a>
 
