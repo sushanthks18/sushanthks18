@@ -35,7 +35,7 @@ I am Sushanth K S from Siddaganga Institute of Technology, Tumkur, Karnataka, cu
   <img src="https://img.shields.io/badge/TAX%20SAVER-8E44AD?style=for-the-badge&logo=money&logoColor=white"/>
 </a>
 <a href="https://github.com/sushanthks18/Mess-Feedback-Analytics-System.git">
-  <img src="https://img.shields.io/badge/TAX%20SAVER-F89F1B?style=for-the-badge&logo=money&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mess%20Feedback%20&%20Analytics%20System-F89F1B?style=for-the-badge&logo=money&logoColor=white"/>
 </a>
 
 </p>
