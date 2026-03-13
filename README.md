@@ -1,22 +1,24 @@
-<table>
+<table align="center">
 <tr>
-<td>
+
+<td align="center">
+
+<img src="https://github.com/sushanthks18/photo/blob/main/PHOTO-2025-11-19-21-11-49.jpg?raw=true" width="180"/>
+
+</td>
+
+<td align="center">
 
 <p align="center">
-  <img align="left" src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sushanth+K+S&center=true&size=28">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sushanth+K+S&center=true&size=28">
 </p>
 
 </td>
 
-<td>
-
-<img src="https://github.com/sushanthks18/photo/blob/main/PHOTO-2025-11-19-21-11-49.jpg" width="180"/>
-
-</td>
 </tr>
 </table>
 
-<h2>👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <ul>
 I am Sushanth K S from Siddaganga Institute of Technology, Tumkur, Karnataka, currently in the 6th semester pursuing Electronics and Communication Engineering. I have hands-on experience with the MERN stack and have built and deployed multiple web applications using these technologies. I am interested in developing software solutions that address real-world problems and continuously improving my technical skills. I also have a good understanding of core computer science fundamentals.
