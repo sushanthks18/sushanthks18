@@ -1,7 +1,20 @@
+<table>
+<tr>
+<td>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sushanth+K+S&center=true&size=28">
 </p>
 
+</td>
+
+<td>
+
+<img src="https://github.com/sushanthks18/photo.git" width="180"/>
+
+</td>
+</tr>
+</table>
 
 <h2>👨‍💻 About Me</h2>
 
