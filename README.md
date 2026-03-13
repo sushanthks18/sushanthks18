@@ -3,7 +3,7 @@
 <td>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sushanth+K+S&center=true&size=28">
+  <img align="left" src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sushanth+K+S&center=true&size=28">
 </p>
 
 </td>
