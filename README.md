@@ -10,7 +10,7 @@
 
 <td>
 
-<img src="https://github.com/sushanthks18/photo.git" width="180"/>
+<img src="https://github.com/sushanthks18/photo/blob/main/PHOTO-2025-11-19-21-11-49.jpg" width="180"/>
 
 </td>
 </tr>
